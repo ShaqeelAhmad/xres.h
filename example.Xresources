@@ -1,0 +1,5 @@
+! This comment is handled by xres.h
+// This comment only works when cpp is enabled
+*.foreground:   #efefef
+*.background:   #111111
+*.font:         iosevka
